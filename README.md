@@ -1,5 +1,10 @@
 ### Oiii ! Eu sou o Caio Queiroz Soares
 
+<div align="center">
+  <a href="https://github.com/caio300">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caio300&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio300&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 #### Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
