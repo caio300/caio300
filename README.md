@@ -1,4 +1,4 @@
-### Oiii ! Eu sou o Caio Queiroz Soares
+### Caio Queiroz Soares
 
 <div align="center">
   <a href="https://github.com/caio300">
